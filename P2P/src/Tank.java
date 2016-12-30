@@ -126,6 +126,7 @@ public class Tank {
 			MessageDigest md = MessageDigest.getInstance("SHA-512");
 			DigestInputStream dis = new DigestInputStream(fis, md);
 			//affichage du checksum initial avant hash...
+			//ozghzoageh aegfazgef
 		}
 	}
 }
