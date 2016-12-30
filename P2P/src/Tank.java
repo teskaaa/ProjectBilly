@@ -128,4 +128,8 @@ public class Tank {
 			//affichage du checksum initial avant hash...
 		}
 	}
+	
+	/**
+	 * @author KeviN Re fileSplitter
+	 */
 }
